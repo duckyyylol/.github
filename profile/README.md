@@ -19,8 +19,22 @@ My goal is to create experiences that communities enjoy through events, social m
 ### Open Projects
 **Spoofify** - A Spotify-focused Now Playing Overlay & Queue Management Twitch bot.
 
+*[[Documentation]](https://docs.ducky.wiki/projects/spoofify)*
+
 [![Spoofify](https://files.ducky.wiki/share/public_assets/projects/spoofify/SpoofifyBadge.svg)](https://spoofify.live)
 
 **Duckylib** - A simple Svelte 5 component library utilizing the [Catppuccin](https://github.com/catppuccin/catppuccin) color palettes.
 
 [![Duckylib](https://files.ducky.wiki/share/public_assets/projects/duckylib/DuckylibBadge.svg)](https://ducky.wiki/travel/github/duckylib) [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org/package/duckylib)
+
+**Create: Jukebox Displays** - A Minecraft 1.21.1 mod made for NeoForge that extends the functionality of the Display Link item from Create mod.
+
+*[[Documentation]](https://docs.ducky.wiki/mods/createjukeboxdisplay)*
+
+[![Modrinth](https://files.ducky.wiki/share/public_assets/external/ModrinthBadge.svg)](https://modrinth.com/mod/create-jukebox-displays) [![CurseForge](https://files.ducky.wiki/share/public_assets/external/CurseforgeBadge.svg)](https://www.curseforge.com/minecraft/mc-mods/create-jukebox-displays)
+
+**Dye Blocks** - A Minecraft 1.21.1 mod made for NeoForge that adds solid-colored blocks of each dye color.
+
+*[[Documentation]](https://docs.ducky.wiki/mods/dyeblocks)*
+
+[![Modrinth](https://files.ducky.wiki/share/public_assets/external/ModrinthBadge.svg)](https://modrinth.com/mod/dyeblocks) [![CurseForge](https://files.ducky.wiki/share/public_assets/external/CurseforgeBadge.svg)](https://www.curseforge.com/minecraft/mc-mods/dye-blocks)
