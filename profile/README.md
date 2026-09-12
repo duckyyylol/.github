@@ -1,6 +1,8 @@
 <img src="https://files.ducky.wiki/share/public_assets/ducky/banners/Banner_Purple.png" style="border-radius:16px;width:auto;height:200px;" />
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://ducky.wiki/travel/github) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://ducky.wiki/travel/discord) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://ducky.wiki/travel/bluesky) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://ducky.wiki/travel/twitch) [![ducky](https://files.ducky.wiki/share/public_assets/ducky/DuckyBadge.svg)](https://ducky.wiki) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://ducky.wiki/travel/github) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://ducky.wiki/travel/discord) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q1I122WYHF)
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://ducky.wiki/travel/bluesky) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://ducky.wiki/travel/twitch) [![ducky](https://files.ducky.wiki/share/public_assets/ducky/DuckyBadge.svg)](https://ducky.wiki) 
 
 ---
 
