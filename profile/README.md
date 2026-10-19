@@ -19,13 +19,6 @@ My goal is to create experiences that communities enjoy through events, social m
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Zed](https://img.shields.io/badge/zedindustries-%23084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 ### Open Projects
-**Toolrinth/ToolrinthLib** - A Modrinth-focused Discord bot, and a Modrinth API wrapper.
-
-*[[Toolrinth.com]](https://toolrinth.com)*
-*[[ToolrinthLib Documentation]](https://docs.lib.toolrinth.com)*
-
-[![Spoofify](https://files.ducky.wiki/share/public_assets/projects/toolrinth/ToolrinthLib_Badge.png)](https://toolrinth.com)
-
 **Spoofify** - A Spotify-focused Now Playing Overlay & Queue Management Twitch bot.
 
 *[[Documentation]](https://docs.ducky.wiki/projects/spoofify)*
